@@ -1,3 +1,7 @@
+GITHUB LINK: https://github.com/seagnome/Project-Build-an-ML-Pipeline-Starter
+WANDB.AI PROJECT LINK: https://wandb.ai/seagnome_data/nyc_airbnb/table?nw=nwuserseagnome
+
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
